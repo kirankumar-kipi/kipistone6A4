@@ -1,0 +1,13 @@
+snowflake:
+  user: 
+  password: 
+  account: 
+  warehouse: 
+  database: 
+  schema: 
+  s3_stage: 
+  client_session_keep_alive: 
+
+AUDIT_TABLE:
+  airflow_audit_table: 
+
